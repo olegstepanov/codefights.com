@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/codefights-kotlin.iml" filepath="$PROJECT_DIR$/.idea/modules/codefights-kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/codefights-kotlin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/codefights-kotlin_main.iml" group="codefights-kotlin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/codefights-kotlin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/codefights-kotlin_test.iml" group="codefights-kotlin" />
+    </modules>
+  </component>
+</project>
